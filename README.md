@@ -8,7 +8,7 @@ Alrighty 👋
 <img src="https://profile-counter.glitch.me/ConnorCampagnaDeveloper/count.svg">
 </p>
  
- <p align="center">Im Connor, Im 18 and currently studying a BsC in Computer Science at the University Of Glasgow.</p> 
+ <p align="center">Im Connor, Im 18 and currently studying a BSc in Computer Science at the University Of Glasgow.</p> 
  
  <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/?username=ConnorCampagnaDeveloper&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
