@@ -18,7 +18,7 @@ const connor = {
     degree: "BSc Computer Science",
     passions: ["Artificial Intelligence", "Problem Solving", "Cloud Technology"],
     currentFocus: "Building AI-powered solutions that make an impact",
-    funFact: "I believe the best code is written with a cup of coffee ☕"
+    funFact: "I started coding when i was 11"
 };
 ```
 
@@ -73,37 +73,12 @@ I'm a **Computer Science student** at the **University of Glasgow** with a deep 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=connorcampagna&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=connorcampagna&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=connorcampagna&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=connorcampagna&repo=your-best-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF)](https://github.com/connorcampagna/your-best-project)
-
-</div>
-
-> 💡 *Check out my repositories below to see what I've been building!*
-
----
 
 ## 🤝 Let's Connect!
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/connor-campagna-506729254)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
