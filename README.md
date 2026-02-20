@@ -17,8 +17,8 @@ const connor = {
     education: "University of Glasgow 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
     degree: "BSc Computer Science",
     passions: ["Artificial Intelligence", "Problem Solving", "Cloud Technology"],
-    currentFocus: "Building AI-powered solutions that make an impact",
-    funFact: "I started coding when i was 11"
+    currentFocus: "Learning Java / How to Use Ai To Optimise Soloutions",
+    funFact: "I Started Coding When I Was 11"
 };
 ```
 
