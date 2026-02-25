@@ -86,8 +86,6 @@ I'm a **Computer Science student** at the **University of Glasgow** with a deep 
 
 <div align="center">
 
-### 💭 *"The best way to predict the future is to create it."*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
 
 </div>
