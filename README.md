@@ -14,13 +14,13 @@ I build web apps end to end, front to back, and I'm especially interested in app
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://scotexamai.xyz"><b>ScotExamAI</b></a><br>
+      <b>ScotExamAI</b><<br>
       AI exam revision for Scottish students. 900+ users.<br><br>
       <sub>React · TypeScript · Gemini · Supabase</sub>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/connorcampagna/pubcrawl."><b>Pubcrawl.</b></a><br>
-      Plan a Glasgow pub crawl, then run it live with your mates.<br><br>
+      Plan a Glasgow pub crawl, then run it live with your friends.<br><br>
       <sub>React · Fastify · Postgres · MapLibre</sub>
     </td>
     <td width="33%" valign="top">
@@ -34,12 +34,12 @@ I build web apps end to end, front to back, and I'm especially interested in app
 <br>
 
 **Now**
-- Shipping full-stack projects with JavaScript and Node.js
-- Getting properly fluent in Java
+- Shipping full-stack projects with TypeScript and React
+- Getting properly fluent in Java/Python
 - Experimenting with LLMs inside real products
 
 **Previously**
-Valorem First &nbsp;·&nbsp; JPMorganChase, Code for Good winner &nbsp;·&nbsp; Sabio
+Valorem First &nbsp;·&nbsp; JPMorganChase, Code for Good Hackathon winner &nbsp;·&nbsp; Sabio
 
 <br>
 
