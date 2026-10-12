@@ -14,7 +14,7 @@ I build web apps end to end, front to back, and I'm especially interested in app
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b>ScotExamAI</b><<br>
+      <b>ScotExamAI</b><br>
       AI exam revision for Scottish students. 900+ users.<br><br>
       <sub>React · TypeScript · Gemini · Supabase</sub>
     </td>
