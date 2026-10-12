@@ -47,4 +47,4 @@ Valorem First &nbsp;·&nbsp; JPMorganChase, Code for Good winner &nbsp;·&nbsp; 
 
 <br><br>
 
-<a href="https://uk.linkedin.com/in/connor-campagna-506729254">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:connorcampagna36@outlook.com">Email</a>
+<a href="https://uk.linkedin.com/in/connor-campagna-506729254">LinkedIn</a>
